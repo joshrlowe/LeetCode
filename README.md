@@ -33,3 +33,4 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](./algorithms/707.%20Design%20Linked%20List/solution.py) | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](./algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.py) | Easy |
 | 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Python](./algorithms/905.%20Sort%20Array%20By%20Parity/solution.py) | Easy |
+| 1836 | [Remove Duplicates from an Unsorted Linked List 🔒](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/description/) | [Python](./algorithms/1836.%20Remove%20Duplicates%20From%20an%20Unsorted%20Linked%20List/solution.py) | Medium |
