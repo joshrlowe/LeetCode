@@ -20,5 +20,4 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/solution.py) | Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/solution.py) | Easy |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./algorithms/155.%20Min%20Stack/solution.py) | Medium |
-
-
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/169.%20Majority%20Element/solution.py) | Easy |
