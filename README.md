@@ -29,3 +29,4 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./algorithms/383.%20Ransom%20Note/solution.py) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Python](./algorithms/543.%20Diameter%20of%20Binary%20Tree/solution.py) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Python](./algorithms/682.%20Baseball%20Game/solution.py) | Easy |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./algorithms/704.%20Binary%20Search/solution.py) | Easy |
