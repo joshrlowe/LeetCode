@@ -26,3 +26,4 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./algorithms/206.%20Reverse%20Linked%20List/solution.py) | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](./algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/solution.py) | Medium |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Python](./algorithms/257.%20Binary%20Tree%20Paths/solution.py) | Easy |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./algorithms/383.%20Ransom%20Note/solution.py) | Easy |
