@@ -13,6 +13,6 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./algorithms/83.%20Remove%20Duplicates%20from%20Sorted%20List/solution.py) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Python](./algorithms/94.%20Binary%20Tree%20Inorder%20Traversal/solution.py) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Python](./algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/solution.py) | Medium |
-
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python](./algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/solution.py) | Medium |
 
 
