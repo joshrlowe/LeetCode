@@ -17,6 +17,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.py) | Easy |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/solution.py) | Medium |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Python](./algorithms/113.%20Path%20Sum%20II/solution.py) | Medium |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/) | Easy |
 
 
 
