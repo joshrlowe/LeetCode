@@ -36,3 +36,8 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 1836 | [Remove Duplicates from an Unsorted Linked List 🔒](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/description/) | [Python](./algorithms/1836.%20Remove%20Duplicates%20From%20an%20Unsorted%20Linked%20List/solution.py) | Medium |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Python](./algorithms/1929.%20Concatenation%20of%20Array/solution.py) | Easy |
 | 1985 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/description/) | [Python](./algorithms/1985.%20Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array/solution.py) | Medium |
+
+## LeetCode SQL
+| Number | Title | Solution | Difficulty |
+|:-------|:------|:---------|:-----------|
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [SQL](./sql/584.%20Find%20Customer%20Referee/solution.sql) | Easy |
