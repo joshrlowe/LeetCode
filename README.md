@@ -4,6 +4,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | Number | Title | Solution | Difficulty |
 |:-------|:------|:---------|:-----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/1.%20Two%20Sum/solution.py) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./algorithms/2.%20Add%20Two%20Numbers/solution.py) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](./algorithms/20.%20Valid%20Parentheses/solution.py) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Python](./algorithms/21.%20Merge%20Two%20Sorted%20Lists/solution.py) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](./algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py) | Easy |
