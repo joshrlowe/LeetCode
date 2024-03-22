@@ -35,6 +35,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/169.%20Majority%20Element/solution.py) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./algorithms/189.%20Rotate%20Array/solution.py) | Medium |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./algorithms/203.%20Remove%20Linked%20List%20Elements/solution.py) | Easy |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Python](./algorithms/205.%20Isomorphic%20Strings/solution.py) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./algorithms/206.%20Reverse%20Linked%20List/solution.py) | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](./algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/solution.py) | Medium |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Python](./algorithms/257.%20Binary%20Tree%20Paths/solution.py) | Easy |
