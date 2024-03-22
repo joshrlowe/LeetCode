@@ -40,6 +40,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](./algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/solution.py) | Medium |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Python](./algorithms/257.%20Binary%20Tree%20Paths/solution.py) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./algorithms/383.%20Ransom%20Note/solution.py) | Easy |
+| 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | [Python](./algorithms/441.%20Arranging%20Coins/solution.py) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Python](./algorithms/543.%20Diameter%20of%20Binary%20Tree/solution.py) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Python](./algorithms/682.%20Baseball%20Game/solution.py) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./algorithms/704.%20Binary%20Search/solution.py) | Easy |
