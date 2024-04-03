@@ -9,6 +9,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Python](./algorithms/7.%20Reverse%20Integer/Python/) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/9.%20Palindrome%20Number/solution.py) | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./algorithms/13.%20Roman%20to%20Integer/solution.py) | Easy |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | [Python](./algorithms/15.%203Sum/solution.py) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./algorithms/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/solution.py) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](./algorithms/20.%20Valid%20Parentheses/solution.py) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Python](./algorithms/21.%20Merge%20Two%20Sorted%20Lists/solution.py) | Easy |
