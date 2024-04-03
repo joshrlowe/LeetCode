@@ -1,5 +1,6 @@
 from typing import List
 
+
 #
 class Solution1:
     # Self-created approach - good if I wanted to show I know how reverse could be implemented for indices
@@ -11,7 +12,7 @@ class Solution1:
                 nums[start], nums[end] = nums[end], nums[start]
                 start += 1
                 end -= 1
-        
+
         k %= len(nums)
         nums.reverse()
         reverse_indices(0, k - 1)

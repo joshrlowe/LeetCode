@@ -21,9 +21,11 @@ def kthLargestNumber(nums, k) -> str:
         new_lst.extend(right[j:])
         lst = new_lst
         return lst
+
     nums = [int(num) for num in nums]
     nums = merge_sort(nums)
     return str(nums[-k])
+
 
 # Python Sorting - TimSort
 # O(nlog(n)) Time Complexity
@@ -36,8 +38,7 @@ def kthLargestNumber(nums, k):
 print(kthLargestNumber(["3", "6", "7", "10"], 4))
 
 
-'''
+"""
 Optimal Solution:
 https://chat.openai.com/share/e9d0b40e-11fc-4823-9d48-400762dc398e
-'''
-
+"""

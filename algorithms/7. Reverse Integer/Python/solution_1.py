@@ -10,5 +10,5 @@ class Solution:
             x -= x % 10
             x /= 10
             reversed *= 10
-        x = -1 * int(reversed // 10) if negative else int(reversed // 10) 
+        x = -1 * int(reversed // 10) if negative else int(reversed // 10)
         return x if x.bit_length() < 32 else 0

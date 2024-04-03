@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        closing_parentheses = {")" : "(", "}" : "{", "]" : "["}
+        closing_parentheses = {")": "(", "}": "{", "]": "["}
         for char in s:
             if char in closing_parentheses:
                 if stack and stack[-1] == closing_parentheses[char]:

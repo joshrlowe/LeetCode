@@ -4,6 +4,7 @@ def inorderTraversal(root):
             dfs(node.left)
             result.append(node.val)
             dfs(node.right)
+
     result = []
     dfs(root)
     return result

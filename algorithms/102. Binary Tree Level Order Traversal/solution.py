@@ -1,11 +1,13 @@
 from typing import List, Optional
 from collections import deque
 
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right
+
 
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
@@ -27,5 +29,5 @@ class Solution:
             if next_level:
                 d.append(next_level[:])
             result.append([node.val for node in nodes])
-        
+
         return result

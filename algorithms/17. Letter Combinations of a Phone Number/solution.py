@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         combinations = {
@@ -12,10 +13,10 @@ class Solution:
             "8": "tuv",
             "9": "wxyz",
         }
-        
+
         def helper(i):
             if i == len(digits):
-                result.append(''.join(partial_solution))
+                result.append("".join(partial_solution))
                 return
             for j in combinations[int(digits[i]) - 2]:
                 partial_solution.append(j)

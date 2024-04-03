@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         global_sum = nums[0]

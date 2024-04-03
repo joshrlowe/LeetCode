@@ -1,10 +1,11 @@
 from typing import List
 
+
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         color_count = [0, 0, 0]
         for num in nums:
-            match(num):
+            match (num):
                 case 0:
                     color_count[0] += 1
                 case 1:

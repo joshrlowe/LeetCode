@@ -3,6 +3,7 @@ class ListNode:
         self.val = val
         self.next = next
 
+
 class Solution:
     def deleteDuplicatesUnsorted(self, head: ListNode) -> ListNode:
         if not head:
@@ -16,7 +17,7 @@ class Solution:
             else:
                 node_freq[curr.val] = 1
             curr = curr.next
-        
+
         curr = head
         while curr and node_freq[curr.val] > 1:
             curr = head = curr.next
