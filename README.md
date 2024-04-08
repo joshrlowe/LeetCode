@@ -42,6 +42,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Array/) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./algorithms/217.%20Contains%20Duplicate/solution.py) | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](./algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/solution.py) | Medium |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./algorithms/242.%20Valid%20Anagram/) | Easy |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Python](./algorithms/252.%20Meeting%20Rooms/solution.py) | Medium |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Python](./algorithms/257.%20Binary%20Tree%20Paths/solution.py) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./algorithms/383.%20Ransom%20Note/solution.py) | Easy |
