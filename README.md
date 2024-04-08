@@ -39,7 +39,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./algorithms/203.%20Remove%20Linked%20List%20Elements/solution.py) | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Python](./algorithms/205.%20Isomorphic%20Strings/solution.py) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./algorithms/206.%20Reverse%20Linked%20List/solution.py) | Easy |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Array/solution.py) | Medium |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Array/) | Medium |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](./algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/solution.py) | Medium |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Python](./algorithms/252.%20Meeting%20Rooms/solution.py) | Medium |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Python](./algorithms/257.%20Binary%20Tree%20Paths/solution.py) | Easy |
