@@ -47,11 +47,13 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./algorithms/242.%20Valid%20Anagram/) | Easy |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Python](./algorithms/252.%20Meeting%20Rooms/solution.py) | Medium |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Python](./algorithms/257.%20Binary%20Tree%20Paths/solution.py) | Easy |
+| 259 | [3Sum Smaller 🔒](https://leetcode.com/problems/3sum-smaller/description/) | [Python](./algorithms/259.%203Sum%20Smaller/solution.py) | Medium |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Python](./algorithms/347.%20Top%20K%20Frequent%20Elements/) | Medium |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./algorithms/383.%20Ransom%20Note/solution.py) | Easy |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | [Python](./algorithms/441.%20Arranging%20Coins/solution.py) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Python](./algorithms/543.%20Diameter%20of%20Binary%20Tree/solution.py) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Python](./algorithms/682.%20Baseball%20Game/solution.py) | Easy |
+| 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [Python](./algorithms/692.%20Top%20K%20Frequent%20Words/) | Medium |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Python](./algorithms/703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./algorithms/704.%20Binary%20Search/solution.py) | Easy |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](./algorithms/707.%20Design%20Linked%20List/solution.py) | Medium |

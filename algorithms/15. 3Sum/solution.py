@@ -6,23 +6,20 @@ class Solution:
         result = []
         nums.sort()
 
-        for i in range(len(nums) - 2):
-            if i > 0 and nums[i] == nums[i - 1]:
+        for i, a in enumerate(nums):
+            if i > 0 and a == nums[i - 1]:
                 continue
 
-            j, k = i + 1, len(nums) - 1
-            while j < k:
-                current_sum = nums[i] + nums[j] + nums[k]
+            l, r = i + 1, len(nums) - 1
+            while l < r:
+                current_sum = a + nums[l] + nums[r]
                 if current_sum < 0:
-                    j += 1
+                    l += 1
                 elif current_sum > 0:
-                    k -= 1
+                    r -= 1
                 else:
-                    result.append([nums[i], nums[j], nums[k]])
-                    while j < k and nums[j] == nums[j + 1]:
-                        j += 1
-                    while j < k and nums[k] == nums[k - 1]:
-                        k -= 1
-                    j += 1
-                    k -= 1
+                    result.append([a, nums[l], nums[r]])
+                    l += 1
+                    while nums[l] == nums[l - 1] and l < r:
+                        l += 1
         return result
