@@ -58,6 +58,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Python](./algorithms/703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./algorithms/704.%20Binary%20Search/solution.py) | Easy |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](./algorithms/707.%20Design%20Linked%20List/solution.py) | Medium |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./algorithms/724.%20Find%20Pivot%20Index/solution.py) | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](./algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.py) | Easy |
 | 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Python](./algorithms/905.%20Sort%20Array%20By%20Parity/solution.py) | Easy |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Python](./algorithms/912.%20Sort%20an%20Array/solution.py) | Medium |
