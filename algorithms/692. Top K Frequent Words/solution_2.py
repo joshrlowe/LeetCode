@@ -1,9 +1,10 @@
 from typing import List
 import heapq
 
+
 class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:
-        '''
+        """
         Time Complexity:
             Counting Frequencies: O(n), where n is the number of words;
             Building Heap: O(mlog(m)), where m is the number of unique words;
@@ -13,7 +14,7 @@ class Solution:
             Dictionary: O(m)
             Heap: O(m)
             In the worst case, every word is unique, and the space complexity is O(n).
-        '''
+        """
         count = {}
         for word in words:
             count[word] = count.get(word, 0) + 1

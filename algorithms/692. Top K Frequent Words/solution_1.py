@@ -1,8 +1,9 @@
 from typing import List
 
+
 class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:
-        '''
+        """
         Time Complexity:
             Counting Frequencies in count: O(n), where n is the number of words in words;
             Placing numbers in frequencies: O(m), where m is the number of unique words;
@@ -12,7 +13,7 @@ class Solution:
             count: O(m)
             frequencies: O(n)
             The total space complexity is O(n).
-        '''
+        """
         res = []
         count = {}
         frequencies = [[] for _ in range(len(words) + 1)]

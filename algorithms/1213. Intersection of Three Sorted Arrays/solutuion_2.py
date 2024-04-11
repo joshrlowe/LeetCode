@@ -1,7 +1,10 @@
 from typing import List
 
+
 class Solution:
-    def arraysIntersection(self, arr1: List[int], arr2: List[int], arr3: List[int]) -> List[int]:
+    def arraysIntersection(
+        self, arr1: List[int], arr2: List[int], arr3: List[int]
+    ) -> List[int]:
         def find_sub_intersection(a1, a2):
             i, j = 0, 0
             result = []

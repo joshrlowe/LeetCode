@@ -1,4 +1,4 @@
-from typing import List 
+from typing import List
 
 
 class Solution:
@@ -15,4 +15,3 @@ class Solution:
                 else:
                     r -= 1
         return smallerSums
-                

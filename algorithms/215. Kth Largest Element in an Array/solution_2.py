@@ -1,6 +1,7 @@
 from typing import List
 import random
 
+
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         def quick_select(nums, k):

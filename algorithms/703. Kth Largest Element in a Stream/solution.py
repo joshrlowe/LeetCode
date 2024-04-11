@@ -1,6 +1,7 @@
 from typing import List
 import heapq
 
+
 class KthLargest:
 
     def __init__(self, k: int, nums: List[int]):
@@ -10,7 +11,6 @@ class KthLargest:
             heapq.heappush(self.heap, num)
             if len(self.heap) > self.k:
                 heapq.heappop(self.heap)
-
 
     def add(self, val: int) -> int:
         if len(self.heap) < self.k:
