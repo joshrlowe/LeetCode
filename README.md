@@ -1,5 +1,7 @@
 # LeetCode
+
 ## LeetCode Algorithms
+
 Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem.
 | Number | Title | Solution | Difficulty |
 |:-------|:------|:---------|:-----------|
@@ -33,6 +35,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./algorithms/125.%20Validate%20Palindrome/solution.py) | Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/solution.py) | Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/solution.py) | Easy |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./algorithms/146.%20LRU%20Cache/solution.py) | Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./algorithms/155.%20Min%20Stack/solution.py) | Medium |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./algorithms/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/solution.py) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/169.%20Majority%20Element/solution.py) | Easy |
@@ -69,11 +72,13 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 1985 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/description/) | [Python](./algorithms/1985.%20Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array/solution.py) | Medium |
 
 ## LeetCode JavaScript
-| Number | Title | Solution | Difficulty |
-|:-------|:------|:---------|:-----------|
-| 2667 | [Create Hwllo World Function](https://leetcode.com/problems/create-hello-world-function/description/) | [JavaScript](./algorithms/2667.%20Create%20Hello%20World%20Function/solution.js) | Easy |
+
+| Number | Title                                                                                                 | Solution                                                                         | Difficulty |
+| :----- | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- | :--------- |
+| 2667   | [Create Hwllo World Function](https://leetcode.com/problems/create-hello-world-function/description/) | [JavaScript](./algorithms/2667.%20Create%20Hello%20World%20Function/solution.js) | Easy       |
 
 ## LeetCode SQL
-| Number | Title | Solution | Difficulty |
-|:-------|:------|:---------|:-----------|
-| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [SQL](./sql/584.%20Find%20Customer%20Referee/solution.sql) | Easy |
+
+| Number | Title                                                                                     | Solution                                                   | Difficulty |
+| :----- | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------- | :--------- |
+| 584    | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [SQL](./sql/584.%20Find%20Customer%20Referee/solution.sql) | Easy       |
