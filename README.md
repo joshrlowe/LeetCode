@@ -54,6 +54,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](./algorithms/303.%20Range%20Sum%20Query%20-%20Immutable/solution.py) | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Python](./algorithms/347.%20Top%20K%20Frequent%20Elements/) | Medium |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./algorithms/383.%20Ransom%20Note/solution.py) | Easy |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Python](./algorithms/392.%20Is%20Subsequence/solution.py) | Easy |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | [Python](./algorithms/441.%20Arranging%20Coins/solution.py) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Python](./algorithms/543.%20Diameter%20of%20Binary%20Tree/solution.py) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Python](./algorithms/682.%20Baseball%20Game/solution.py) | Easy |
@@ -61,13 +62,17 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Python](./algorithms/700.%20Search%20in%20a%20Binary%20Search%20Tree/solution.py) | Easy |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Python](./algorithms/703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./algorithms/704.%20Binary%20Search/solution.py) | Easy |
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./algorithms/717.%201-bit%20and%202-bit%20Characters/solution.py) |Easy |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](./algorithms/707.%20Design%20Linked%20List/solution.py) | Medium |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./algorithms/724.%20Find%20Pivot%20Index/solution.py) | Easy |
+| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Python](./algorithms/784.%20Letter%20Case%20Permutation/solution.py) | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](./algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.py) | Easy |
 | 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Python](./algorithms/905.%20Sort%20Array%20By%20Parity/solution.py) | Easy |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Python](./algorithms/912.%20Sort%20an%20Array/solution.py) | Medium |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/) | [Python](./algorithms/1078.%20Occurrences%20After%20Bigram/solution.py) | Easy |
 | 1213 | [Intersection of Three Sorted Arrays 🔒](https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/) | [Python](./algorithms/1213.%20Intersection%20of%20Three%20Sorted%20Arrays/) | Easy |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Python](./algorithms/1472.%20Design%20Browser%20History/solution.py) | Medium |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Python](./algorithms/1480.%20Running%20Sum%20of%201d%20Array/solution.py) | Easy |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python](./algorithms/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch/solution.py) | Easy |
 | 1836 | [Remove Duplicates from an Unsorted Linked List 🔒](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/description/) | [Python](./algorithms/1836.%20Remove%20Duplicates%20From%20an%20Unsorted%20Linked%20List/solution.py) | Medium |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Python](./algorithms/1929.%20Concatenation%20of%20Array/solution.py) | Easy |
@@ -81,6 +86,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 
 ## LeetCode SQL
 
-| Number | Title                                                                                     | Solution                                                   | Difficulty |
-| :----- | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------- | :--------- |
-| 584    | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [SQL](./sql/584.%20Find%20Customer%20Referee/solution.sql) | Easy       |
+| Number | Title                                                                                                         | Solution                                                                  | Difficulty |
+| :----- | :------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------ | :--------- |
+| 584    | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)                     | [SQL](./sql/584.%20Find%20Customer%20Referee/solution.sql)                | Easy       |
+| 1757   | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [SQL](./sql/1757.%20Recyclable%20and%20Low%20Fat%20Products/solution.sql) | Easy       |
