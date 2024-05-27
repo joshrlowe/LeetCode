@@ -45,6 +45,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./algorithms/206.%20Reverse%20Linked%20List/solution.py) | Easy |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Array/) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./algorithms/217.%20Contains%20Duplicate/solution.py) | Easy |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./algorithms/225.%20Implement%20Stack%20using%20Queues/) | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](./algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/solution.py) | Medium |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](./algorithms/238.%20Product%20of%20Array%20Except%20Self/solution.py) | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./algorithms/242.%20Valid%20Anagram/) | Easy |
@@ -62,8 +63,9 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Python](./algorithms/700.%20Search%20in%20a%20Binary%20Search%20Tree/solution.py) | Easy |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Python](./algorithms/703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./algorithms/704.%20Binary%20Search/solution.py) | Easy |
-| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./algorithms/717.%201-bit%20and%202-bit%20Characters/solution.py) |Easy |
+| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Python](./algorithms/705.%20Design%20HashSet/solution.py) | Easy |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](./algorithms/707.%20Design%20Linked%20List/solution.py) | Medium |
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./algorithms/717.%201-bit%20and%202-bit%20Characters/solution.py) |Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./algorithms/724.%20Find%20Pivot%20Index/solution.py) | Easy |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Python](./algorithms/784.%20Letter%20Case%20Permutation/solution.py) | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](./algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.py) | Easy |
