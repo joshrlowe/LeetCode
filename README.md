@@ -58,6 +58,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Python](./algorithms/392.%20Is%20Subsequence/solution.py) | Easy |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | [Python](./algorithms/441.%20Arranging%20Coins/solution.py) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Python](./algorithms/543.%20Diameter%20of%20Binary%20Tree/solution.py) | Easy |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Python](./algorithms/560.%20Subarray%20Sum%20Equals%20K/solution.py) | Medium |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Python](./algorithms/682.%20Baseball%20Game/solution.py) | Easy |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [Python](./algorithms/692.%20Top%20K%20Frequent%20Words/) | Medium |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Python](./algorithms/700.%20Search%20in%20a%20Binary%20Search%20Tree/solution.py) | Easy |
