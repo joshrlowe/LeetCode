@@ -1,9 +1,10 @@
 from typing import List
 
+
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
         result, curSum = 0, 0
-        prefixSums = {0 : 1}
+        prefixSums = {0: 1}
 
         for num in nums:
             curSum += num
@@ -81,5 +82,6 @@ def test_subarray_sum():
     assert result == expected, f"Test 7 Failed: expected {expected}, got {result}"
     print("Passed")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     test_subarray_sum()
