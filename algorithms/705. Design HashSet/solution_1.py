@@ -1,3 +1,12 @@
+"""
+Solution to LeetCode 705: Design HashSet
+
+This implementation handles collisions using open addressing.
+"""
+
+import unittest
+
+
 def isPrime(number: int) -> bool:
     if number <= 1:
         return False
@@ -85,3 +94,61 @@ class MyHashSet:
                 self.set[index] = None
                 start_index = index
             index = (index + 1) % self.capacity
+
+
+class TestMyHashSet(unittest.TestCase):
+
+    def setUp(self):
+        self.hash_set = MyHashSet()
+
+    def test_add_contains(self):
+        self.hash_set.add(1)
+        self.hash_set.add(2)
+        self.assertTrue(self.hash_set.contains(1))
+        self.assertTrue(self.hash_set.contains(2))
+        self.assertFalse(self.hash_set.contains(3))
+
+    def test_remove(self):
+        self.hash_set.add(1)
+        self.hash_set.remove(1)
+        self.assertFalse(self.hash_set.contains(1))
+
+    def test_rehash(self):
+        for i in range(20):
+            self.hash_set.add(i)
+        for i in range(20):
+            self.assertTrue(self.hash_set.contains(i))
+
+    def test_add_duplicate(self):
+        self.hash_set.add(1)
+        self.hash_set.add(1)
+        self.assertTrue(self.hash_set.contains(1))
+
+    def test_remove_nonexistent(self):
+        self.hash_set.add(1)
+        self.hash_set.remove(2)
+        self.assertTrue(self.hash_set.contains(1))
+        self.assertFalse(self.hash_set.contains(2))
+
+    def test_complex_operations(self):
+        self.hash_set.add(1)
+        self.hash_set.add(2)
+        self.hash_set.remove(1)
+        self.assertFalse(self.hash_set.contains(1))
+        self.assertTrue(self.hash_set.contains(2))
+        self.hash_set.add(2)
+        self.hash_set.remove(2)
+        self.assertFalse(self.hash_set.contains(2))
+
+    def test_fixup(self):
+        for i in range(20):
+            self.hash_set.add(i)
+        self.hash_set.remove(10)
+        self.assertFalse(self.hash_set.contains(10))
+        for i in range(20):
+            if i != 10:
+                self.assertTrue(self.hash_set.contains(i))
+
+
+if __name__ == "__main__":
+    unittest.main()
