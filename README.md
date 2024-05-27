@@ -64,6 +64,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [Python](./algorithms/703.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./algorithms/704.%20Binary%20Search/solution.py) | Easy |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Python](./algorithms/705.%20Design%20HashSet/) | Easy |
+| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [Python](./algorithms/706.%20Design%20HashMap/solution.py) | Easy |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](./algorithms/707.%20Design%20Linked%20List/solution.py) | Medium |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./algorithms/717.%201-bit%20and%202-bit%20Characters/solution.py) |Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./algorithms/724.%20Find%20Pivot%20Index/solution.py) | Easy |
