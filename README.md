@@ -52,6 +52,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Python](./algorithms/252.%20Meeting%20Rooms/solution.py) | Medium |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Python](./algorithms/257.%20Binary%20Tree%20Paths/solution.py) | Easy |
 | 259 | [3Sum Smaller 🔒](https://leetcode.com/problems/3sum-smaller/description/) | [Python](./algorithms/259.%203Sum%20Smaller/solution.py) | Medium |
+| 271 | [Encode and Decode Strings 🔒](https://leetcode.com/problems/encode-and-decode-strings/) | [Python](./algorithms/271.%20Encode%20and%20Decode%20Strings/solution.py) | Medium |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](./algorithms/303.%20Range%20Sum%20Query%20-%20Immutable/solution.py) | Easy |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/?source=submission-ac) | [Python](./algorithms/304.%20Range%20Sum%20Query%202D%20-%20Immutable/solution.py) | Medium |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Python](./algorithms/347.%20Top%20K%20Frequent%20Elements/) | Medium |
