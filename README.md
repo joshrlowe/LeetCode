@@ -10,14 +10,17 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.py) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Python](./algorithms/7.%20Reverse%20Integer/Python/) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/9.%20Palindrome%20Number/solution.py) | Easy |
+| 11 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Python](./algorithms/11.%20Container%20With%20Most%20Water/solution.py) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./algorithms/13.%20Roman%20to%20Integer/solution.py) | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | [Python](./algorithms/15.%203Sum/solution.py) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./algorithms/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/solution.py) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Python](./algorithms/20.%20Valid%20Parentheses/solution.py) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Python](./algorithms/21.%20Merge%20Two%20Sorted%20Lists/solution.py) | Easy |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Python](./algorithms/22.%20Generate%20Parentheses/solution.py) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Python](./algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./algorithms/27.%20Remove%20Element/solution.py) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Python](./algorithms/36.%20Valid%20Sudoku/solution.py) | Medium |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Python](./algorithms/42.%20Trapping%20Rain%20Water/solution.py) | Hard |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Python](./algorithms/49.%20Group%20Anagrams/) | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./algorithms/53.%20Maximum%20Subarray/solution.py) | Medium |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](./algorithms/61.%20Rotate%20List/solution.py) | Medium |
@@ -25,6 +28,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python](./algorithms/75.%20Sort%20Colors/solution.py) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [Python](./algorithms/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.py) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./algorithms/83.%20Remove%20Duplicates%20from%20Sorted%20List/solution.py) | Easy |
+| 84 | [Largest Rectangle in Historgram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Python](./algorithms/84.%20Largest%20Rectangle%20in%20Histogram/solution.py) | Hard |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/88.%20Merge%20Sorted%20Array/solution.py) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Python](./algorithms/94.%20Binary%20Tree%20Inorder%20Traversal/solution.py) | Easy |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./algorithms/98.%20Validate%20Binary%20Search%20Tree/solution.py) | Medium |
@@ -73,10 +77,14 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](./algorithms/707.%20Design%20Linked%20List/solution.py) | Medium |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Python](./algorithms/717.%201-bit%20and%202-bit%20Characters/solution.py) |Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./algorithms/724.%20Find%20Pivot%20Index/solution.py) | Easy |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./algorithms/739.%20Daily%20Temperatures/) | Medium |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Python](./algorithms/784.%20Letter%20Case%20Permutation/solution.py) | Medium |
+| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [Python](./algorithms/853.%20Car%20Fleet/solution.py) | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](./algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.py) | Easy |
 | 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Python](./algorithms/905.%20Sort%20Array%20By%20Parity/solution.py) | Easy |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Python](./algorithms/912.%20Sort%20an%20Array/solution.py) | Medium |
+| 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Python](./algorithms/918.%20Maximum%20Sum%20Circular%20Subarray/solution.py) | Medium |
+| 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) | [Python](./algorithms/978.%20Longest%20Turbulent%20Subarray/) | Medium |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/) | [Python](./algorithms/1078.%20Occurrences%20After%20Bigram/solution.py) | Easy |
 | 1213 | [Intersection of Three Sorted Arrays 🔒](https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/) | [Python](./algorithms/1213.%20Intersection%20of%20Three%20Sorted%20Arrays/) | Easy |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Python](./algorithms/1472.%20Design%20Browser%20History/solution.py) | Medium |
