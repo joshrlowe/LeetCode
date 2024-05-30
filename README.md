@@ -84,6 +84,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./algorithms/739.%20Daily%20Temperatures/) | Medium |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Python](./algorithms/784.%20Letter%20Case%20Permutation/solution.py) | Medium |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [Python](./algorithms/853.%20Car%20Fleet/solution.py) | Medium |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Python](./algorithms/875.%20Koko%20Eating%20Bananas/solution.py) | Medium |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Python](./algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.py) | Easy |
 | 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Python](./algorithms/905.%20Sort%20Array%20By%20Parity/solution.py) | Easy |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Python](./algorithms/912.%20Sort%20an%20Array/solution.py) | Medium |
