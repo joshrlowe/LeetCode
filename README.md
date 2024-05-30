@@ -25,6 +25,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./algorithms/53.%20Maximum%20Subarray/solution.py) | Medium |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](./algorithms/61.%20Rotate%20List/solution.py) | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./algorithms/66.%20Plus%20One/solution.py) | Easy |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Python](./algorithms/74.%20Search%20a%202D%20Matrix/solution.py) | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python](./algorithms/75.%20Sort%20Colors/solution.py) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [Python](./algorithms/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.py) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./algorithms/83.%20Remove%20Duplicates%20from%20Sorted%20List/solution.py) | Easy |
