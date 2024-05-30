@@ -43,6 +43,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/solution.py) | Easy |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./algorithms/146.%20LRU%20Cache/solution.py) | Medium |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [Python](./algorithms/150.%20Evaluate%20Reverse%20Polish%20Notation/) | Medium |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./algorithms/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./algorithms/155.%20Min%20Stack/solution.py) | Medium |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./algorithms/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/solution.py) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/169.%20Majority%20Element/solution.py) | Easy |
