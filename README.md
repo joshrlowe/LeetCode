@@ -71,6 +71,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Python](./algorithms/374.%20Guess%20Number%20Higher%20or%20Lower/solution.py) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [Python](./algorithms/383.%20Ransom%20Note/solution.py) | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Python](./algorithms/392.%20Is%20Subsequence/solution.py) | Easy |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Python](./algorithms/424.%20Longest%20Repeating%20Character%20Replacement/solution.py) | Medium |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | [Python](./algorithms/441.%20Arranging%20Coins/solution.py) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Python](./algorithms/543.%20Diameter%20of%20Binary%20Tree/solution.py) | Easy |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Python](./algorithms/560.%20Subarray%20Sum%20Equals%20K/solution.py) | Medium |
