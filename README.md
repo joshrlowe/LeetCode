@@ -39,6 +39,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.py) | Easy |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/solution.py) | Medium |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Python](./algorithms/113.%20Path%20Sum%20II/solution.py) | Medium |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./algorithms/125.%20Validate%20Palindrome/solution.py) | Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/solution.py) | Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/solution.py) | Easy |
