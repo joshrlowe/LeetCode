@@ -44,11 +44,13 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Python](./algorithms/113.%20Path%20Sum%20II/solution.py) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./algorithms/125.%20Validate%20Palindrome/solution.py) | Easy |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python](./algorithms/141.%20Linked%20List%20Cycle/solution.py) | Easy |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python](./algorithms/142.%20Linked%20List%20Cycle%20II/solution.py) | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/solution.py) | Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/solution.py) | Easy |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./algorithms/146.%20LRU%20Cache/solution.py) | Medium |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [Python](./algorithms/150.%20Evaluate%20Reverse%20Polish%20Notation/) | Medium |
-| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./algorithms/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./algorithms/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./algorithms/155.%20Min%20Stack/solution.py) | Medium |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./algorithms/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/solution.py) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./algorithms/169.%20Majority%20Element/solution.py) | Easy |
