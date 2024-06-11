@@ -46,6 +46,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./algorithms/125.%20Validate%20Palindrome/solution.py) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python](./algorithms/141.%20Linked%20List%20Cycle/solution.py) | Easy |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python](./algorithms/142.%20Linked%20List%20Cycle%20II/solution.py) | Medium |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [Python](./algorithms/143.%20Reorder%20List/solution.py) | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/solution.py) | Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/solution.py) | Easy |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./algorithms/146.%20LRU%20Cache/solution.py) | Medium |
