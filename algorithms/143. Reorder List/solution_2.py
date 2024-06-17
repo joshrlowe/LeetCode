@@ -7,6 +7,20 @@ class ListNode:
         self.next = next
 
 
+"""
+Solution 2:
+1. Find the middle of the linked list to divide it into two halves.
+2. Reverse the second half of the list by pushing all its nodes onto a stack.
+3. Merge the first half of the list with the nodes popped from the stack.
+
+Time Complexity: O(n)
+The list is traversed twice.
+
+Space Complexity: O(n)
+Half of the elements are stored in a stack.
+"""
+
+
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
         prev = None
