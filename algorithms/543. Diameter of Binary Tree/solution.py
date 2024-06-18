@@ -13,10 +13,10 @@ class Solution:
         def dfs(node):
             nonlocal diameter
             if not node:
-                return 0
+                return -1
             left = dfs(node.left)
             right = dfs(node.right)
-            diameter = max(diameter, left + right)
+            diameter = max(diameter, left + right + 2)
             return max(left, right) + 1
 
         diameter = 0
