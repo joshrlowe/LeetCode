@@ -1,6 +1,17 @@
-# Recursive Solution
-# O(n) Time Complexity
-# O(h) Space Complexity
+"""
+Recursive Solution
+O(n) Time Complexity
+O(h) Space Complexity
+"""
+
+
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
 def preorderTraversal(root):
     result = []
 
@@ -12,13 +23,6 @@ def preorderTraversal(root):
 
     dfs(root)
     return result
-
-
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
 
 
 def test_preorder_traversal():
