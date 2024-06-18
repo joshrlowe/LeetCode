@@ -39,6 +39,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./algorithms/88.%20Merge%20Sorted%20Array/solution.py) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Python](./algorithms/94.%20Binary%20Tree%20Inorder%20Traversal/solution.py) | Easy |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./algorithms/98.%20Validate%20Binary%20Search%20Tree/solution.py) | Medium |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Python](./algorithms/100.%20Same%20Tree/solution.py) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Python](./algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/solution.py) | Medium |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python](./algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/solution.py) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.py) | Easy |
