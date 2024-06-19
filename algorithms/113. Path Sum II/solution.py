@@ -9,27 +9,24 @@ class TreeNode:
 
 
 class Solution:
-    # O(n) time complexity
-    # O(height) space complexity - O(log(n)) if the tree is balanced
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
-        def dfs(node):
+        def backtrack(node, currentSum):
             if not node:
                 return
-            if not node.left and not node.right:
-                path_sum.append(node.val)
-                if sum(path_sum) == targetSum:
-                    result.append(path_sum[:])
-                path_sum.pop()
-                return
-            path_sum.append(node.val)
-            if node.left:
-                dfs(node.left)
-            if node.right:
-                dfs(node.right)
-            path_sum.pop()
+            currentSum += node.val
+            path.append(node.val)
 
-        result, path_sum = [], []
-        dfs(root)
+            if not node.left and not node.right and currentSum == targetSum:
+                result.append(path[:])
+
+            backtrack(node.left, currentSum)
+            backtrack(node.right, currentSum)
+
+            currentSum -= node.val
+            path.pop()
+
+        result, path = [], []
+        backtrack(root, 0)
         return result
 
 
