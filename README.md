@@ -50,6 +50,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Python](./algorithms/112.%20Path%20Sum/solution.py) | Easy |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Python](./algorithms/113.%20Path%20Sum%20II/solution.py) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py) | Easy |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](./algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum/solution.py) | Hard |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./algorithms/125.%20Validate%20Palindrome/solution.py) | Easy |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Python](./algorithms/138.%20Copy%20List%20with%20Random%20Pointer/solution.py) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python](./algorithms/141.%20Linked%20List%20Cycle/solution.py) | Easy |
