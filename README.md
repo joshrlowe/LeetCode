@@ -24,6 +24,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./algorithms/27.%20Remove%20Element/solution.py) | Easy |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Python](./algorithms/33.%20Search%20in%20Rotated%20Sorted%20Array/solution.py) | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Python](./algorithms/36.%20Valid%20Sudoku/solution.py) | Medium |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Python](./algorithms/39.%20Combination%20Sum/solution.py) | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Python](./algorithms/42.%20Trapping%20Rain%20Water/solution.py) | Hard |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Python](./algorithms/49.%20Group%20Anagrams/) | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./algorithms/53.%20Maximum%20Subarray/solution.py) | Medium |
