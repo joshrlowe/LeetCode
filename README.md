@@ -74,6 +74,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./algorithms/225.%20Implement%20Stack%20using%20Queues/) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Python](./algorithms/226.%20Invert%20Binary%20Tree/solution.py) | Easy |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Python](./algorithms/230.%20Kth%20Smallest%20Element%20in%20a%20BST/) | Medium |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Python](./algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/solution.py) | Medium |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](./algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/solution.py) | Medium |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](./algorithms/238.%20Product%20of%20Array%20Except%20Self/solution.py) | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./algorithms/242.%20Valid%20Anagram/) | Easy |
