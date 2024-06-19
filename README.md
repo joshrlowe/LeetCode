@@ -46,6 +46,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [Python](./algorithms/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/solution.py) | Medium |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/solution.py) | Medium |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Python](./algorithms/110.%20Balanced%20Binary%20Tree/solution.py) | Easy |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Python](./algorithms/112.%20Path%20Sum/solution.py) | Easy |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Python](./algorithms/113.%20Path%20Sum%20II/solution.py) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./algorithms/125.%20Validate%20Palindrome/solution.py) | Easy |
