@@ -38,6 +38,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./algorithms/76.%20Minimum%20Window%20Substring/solution.py) | Hard |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Python](./algorithms/77.%20Combinations/solution.py) | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [Python](./algorithms/78.%20Subsets/solution.py) | Medium |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Python](./algorithms/79.%20Word%20Search/solution.py) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [Python](./algorithms/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/solution.py) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Python](./algorithms/83.%20Remove%20Duplicates%20from%20Sorted%20List/solution.py) | Easy |
 | 84 | [Largest Rectangle in Historgram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Python](./algorithms/84.%20Largest%20Rectangle%20in%20Histogram/solution.py) | Hard |
