@@ -1,32 +1,26 @@
-import math
-import random
+import heapq
 from typing import List
 
 
+"""
+MinHeap Solution
+"""
+
+
 class Solution:
-    def originDistance(self, point: List[int]) -> float:
-        return math.sqrt(point[0] ** 2 + point[1] ** 2)
-
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-        def quickSelect(p, k):
-            pivot = self.originDistance(random.choice(p))
-            left, right, mid = [], [], []
-            for point in p:
-                if self.originDistance(point) < pivot:
-                    left.append(point)
-                elif self.originDistance(point) > pivot:
-                    right.append(point)
-                else:
-                    mid.append(point)
+        minHeap = []
+        for x, y in points:
+            dist = x**2 + y**2
+            minHeap.append([dist, x, y])
 
-            if len(left) < k:
-                return left + quickSelect(mid + right, k - len(left))
-            elif len(left) > k:
-                return quickSelect(left, k)
-            else:
-                return left + mid[: k - len(left)]
-
-        return points if k == len(points) else quickSelect(points, k)
+        heapq.heapify(minHeap)
+        res = []
+        while k > 0:
+            dist, x, y = heapq.heappop(minHeap)
+            res.append([x, y])
+            k -= 1
+        return res
 
 
 def test_kClosest():
