@@ -125,6 +125,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Python](./algorithms/905.%20Sort%20Array%20By%20Parity/solution.py) | Easy |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Python](./algorithms/912.%20Sort%20an%20Array/solution.py) | Medium |
 | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Python](./algorithms/918.%20Maximum%20Sum%20Circular%20Subarray/solution.py) | Medium |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Python](./algorithms/973.%20K%20Closest%20Points%20to%20Origin/solution.py) | Medium |
 | 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) | [Python](./algorithms/978.%20Longest%20Turbulent%20Subarray/) | Medium |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Python](./algorithms/981.%20Time%20Based%20Key-Value%20Store/solution.py) | Medium |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) | [Python](./algorithms/1046.%20Last%20Stone%20Weight/solution.py) | Easy |
