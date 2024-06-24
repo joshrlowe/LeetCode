@@ -81,6 +81,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./algorithms/206.%20Reverse%20Linked%20List/solution.py) | Easy |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Python](./algorithms/208.%20Implement%20Trie%20(Prefix%20Tree)/solution.py) | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./algorithms/209.%20Minimum%20Size%20Subarray%20Sum/solution.py) | Medium |
+| 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Python](./algorithms/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure/solution.py) | Medium |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Array/) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./algorithms/217.%20Contains%20Duplicate/solution.py) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Python](./algorithms/219.%20Contains%20Duplicate%20II/solution.py) | Easy |
