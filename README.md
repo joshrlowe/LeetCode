@@ -101,6 +101,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | [Python](./algorithms/278.%20First%20Bad%20Version/solution.py) | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Python](./algorithms/287.%20Find%20the%20Duplicate%20Number/solution.py) | Medium |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Python](./algorithms/295.%20Find%20Median%20from%20Data%20Stream/solution.py) | Hard |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Python](./algorithms/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/solution.py) | Hard |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](./algorithms/303.%20Range%20Sum%20Query%20-%20Immutable/solution.py) | Easy |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/?source=submission-ac) | [Python](./algorithms/304.%20Range%20Sum%20Query%202D%20-%20Immutable/solution.py) | Medium |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Python](./algorithms/347.%20Top%20K%20Frequent%20Elements/) | Medium |
