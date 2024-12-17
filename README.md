@@ -31,6 +31,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python](./algorithms/46.%20Permutations/Python/) | [Python](./algorithms/46.%20Permutations/test_permutations.py) | Medium |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [Python](./algorithms/47.%20Permutations%20II/permutations_2.py) | [Python](./algorithms/47.%20Permutations%20II/test_permutations_2.py) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Python](./algorithms/49.%20Group%20Anagrams/Python) | [Python](./algorithms/49.%20Group%20Anagrams/test_group_anagrams.py) | Medium |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [Python](./algorithms/51.%20N-Queens/n_queens.py) | [Python](./algorithms/51.%20N-Queens/test_n_queens.py) | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./algorithms/53.%20Maximum%20Subarray/solution.py) | | Medium |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Python](./algorithms/61.%20Rotate%20List/solution.py)| | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)| [Python](./algorithms/66.%20Plus%20One/solution.py) | | Easy |
