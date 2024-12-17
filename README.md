@@ -28,7 +28,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Python](./algorithms/39.%20Combination%20Sum/combination_sum.py)| [Python](./algorithms/39.%20Combination%20Sum/test_combination_sum.py) | Medium |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Python](./algorithms/40.%20Combination%20Sum%20II/combination_sum_ii.py) | [Python](./algorithms/40.%20Combination%20Sum%20II/test_combination_sum_ii.py) | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Python](./algorithms/42.%20Trapping%20Rain%20Water/trapping_rain_water.py) | [Python](./algorithms/42.%20Trapping%20Rain%20Water/test_trapping_rain_water.py) | Hard |
-| 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python](./algorithms/46.%20Permutations/)| | Medium |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python](./algorithms/46.%20Permutations/Python/) | [Python](./algorithms/46.%20Permutations/test_permutations.py) | Medium |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [Python](./algorithms/47.%20Permutations%20II/solution.py)| | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Python](./algorithms/49.%20Group%20Anagrams/)| | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./algorithms/53.%20Maximum%20Subarray/solution.py) | | Medium |
