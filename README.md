@@ -25,7 +25,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Python](./algorithms/27.%20Remove%20Element/remove_element.py) | [Python](./algorithms/27.%20Remove%20Element/test_remove_element.py) | Easy |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)| [Python](./algorithms/33.%20Search%20in%20Rotated%20Sorted%20Array/Python/) | [Python](./algorithms/33.%20Search%20in%20Rotated%20Sorted%20Array/test_search_in_rotated_sorted_array.py) | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Python](./algorithms/36.%20Valid%20Sudoku/valid_sudoku.py) | [Python](./algorithms/36.%20Valid%20Sudoku/test_valid_sudoku.py) | Medium |
-| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Python](./algorithms/39.%20Combination%20Sum/solution.py)| | Medium |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Python](./algorithms/39.%20Combination%20Sum/combination_sum.py)| [Python](./algorithms/39.%20Combination%20Sum/test_combination_sum.py) | Medium |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Python](./algorithms/40.%20Combination%20Sum%20II/solution.py) | | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Python](./algorithms/42.%20Trapping%20Rain%20Water/solution.py)| | Hard |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python](./algorithms/46.%20Permutations/)| | Medium |
