@@ -33,7 +33,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Python](./algorithms/49.%20Group%20Anagrams/Python) | [Python](./algorithms/49.%20Group%20Anagrams/test_group_anagrams.py) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [Python](./algorithms/51.%20N-Queens/n_queens.py) | [Python](./algorithms/51.%20N-Queens/test_n_queens.py) | Hard |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Python](./algorithms/52.%20N-Queens%20II/n_queens_2.py) | [Python](./algorithms/52.%20N-Queens%20II/test_n_queens_2.py) | Hard |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./algorithms/53.%20Maximum%20Subarray/solution.py) | | Medium |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./algorithms/53.%20Maximum%20Subarray/maximum_subarray.py) | [Python](./algorithms/53.%20Maximum%20Subarray/test_maximum_subarray.py) | Medium |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Python](./algorithms/61.%20Rotate%20List/solution.py)| | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)| [Python](./algorithms/66.%20Plus%20One/solution.py) | | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./algorithms/70.%20Climbing%20Stairs/) | | Easy |
