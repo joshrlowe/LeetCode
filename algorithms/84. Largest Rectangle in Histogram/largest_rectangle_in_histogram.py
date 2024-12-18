@@ -1,7 +1,6 @@
 from typing import List
 
 
-
 def largestRectangleArea(heights: List[int]) -> int:
     maxArea = 0
     stack = []
@@ -17,5 +16,3 @@ def largestRectangleArea(heights: List[int]) -> int:
     for i, h in stack:
         maxArea = max(maxArea, h * (len(heights) - i))
     return maxArea
-
-

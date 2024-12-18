@@ -1,7 +1,6 @@
 from typing import List
 
 
-
 def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
     i, j, k = m - 1, n - 1, n + m - 1
     while i >= 0 and j >= 0:
@@ -20,5 +19,3 @@ def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         nums1[k] = nums2[j]
         j -= 1
         k -= 1
-
-

@@ -2,9 +2,6 @@ from typing import Optional
 from utils import TreeNode
 
 
-
-
-
 def isValidBST(root: Optional[TreeNode]) -> bool:
 
     def isSorted(lst):
@@ -22,5 +19,3 @@ def isValidBST(root: Optional[TreeNode]) -> bool:
     result = []
     inorder(root)
     return isSorted(result)
-
-

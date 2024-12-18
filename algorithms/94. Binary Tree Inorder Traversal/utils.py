@@ -22,6 +22,3 @@ def build_tree(values):
             queue.append(node.right)
         index += 1
     return root
-
-
-

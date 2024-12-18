@@ -1,7 +1,6 @@
 from typing import List
 
 
-
 def subsetsWithDup(nums: List[int]) -> List[List[int]]:
     def backtrack(i):
         if i >= len(nums):

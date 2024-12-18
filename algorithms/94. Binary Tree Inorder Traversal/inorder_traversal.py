@@ -2,10 +2,6 @@ from typing import List, Optional
 from utils import TreeNode
 
 
-
-
-
-
 def inorderTraversal(root: Optional[TreeNode]) -> List[int]:
     def dfs(node):
         if node:
@@ -16,5 +12,3 @@ def inorderTraversal(root: Optional[TreeNode]) -> List[int]:
     result = []
     dfs(root)
     return result
-
-
