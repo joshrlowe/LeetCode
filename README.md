@@ -37,6 +37,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./algorithms/58.%20Length%20of%20Last%20Word/length_of_last_word.py) | [Python](./algorithms/58.%20Length%20of%20Last%20Word/test_length_of_last_word.py) | Easy |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Python](./algorithms/61.%20Rotate%20List/rotate_list.py)| [Python](./algorithms/61.%20Rotate%20List/test_rotate_list.py) | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)| [Python](./algorithms/66.%20Plus%20One/plus_one.py) | [Python](./algorithms/66.%20Plus%20One/test_plus_one.py) | Easy |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Python](./algorithms/69.%20Sqrt(x)/sqrtx.py) | [Python](./algorithms/69.%20Sqrt(x)/test_sqrtx.py) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./algorithms/70.%20Climbing%20Stairs/) | | Easy |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Python](./algorithms/74.%20Search%20a%202D%20Matrix/solution.py) | | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python](./algorithms/75.%20Sort%20Colors/solution.py)| | Medium |
@@ -53,26 +54,26 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./algorithms/98.%20Validate%20Binary%20Search%20Tree/solution.py) | | Medium |
 | 100| [Same Tree](https://leetcode.com/problems/same-tree/description/)| [Python](./algorithms/100.%20Same%20Tree/solution.py) | | Easy |
 | 102| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)| [Python](./algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/solution.py)| | Medium |
-| 103| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/solution.py) | | Medium |
-| 104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.py) | | Easy |
-| 105| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| [Python](./algorithms/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/solution.py) | | Medium |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/solution.py) | | Medium |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.py) | | Easy |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| [Python](./algorithms/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/solution.py) | | Medium |
 | 107| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python](./algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/solution.py) | | Medium |
-| 110| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Python](./algorithms/110.%20Balanced%20Binary%20Tree/solution.py)| | Easy |
-| 112| [Path Sum](https://leetcode.com/problems/path-sum/description/)| [Python](./algorithms/112.%20Path%20Sum/solution.py)| | Easy |
-| 113| [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Python](./algorithms/113.%20Path%20Sum%20II/solution.py) | | Medium |
-| 121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [Python](./algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py)| | Easy |
-| 124| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](./algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum/solution.py) | | Hard |
-| 125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Python](./algorithms/125.%20Validate%20Palindrome/solution.py) | | Easy |
-| 131| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Python](./algorithms/131.%20Palindrome%20Partitioning/solution.py)| | Medium |
-| 138| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)| [Python](./algorithms/138.%20Copy%20List%20with%20Random%20Pointer/solution.py)| | Medium |
-| 141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python](./algorithms/141.%20Linked%20List%20Cycle/solution.py) | | Easy |
-| 142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python](./algorithms/142.%20Linked%20List%20Cycle%20II/solution.py) | | Medium |
-| 143| [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [Python](./algorithms/143.%20Reorder%20List/) | | Medium |
-| 144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](./algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/)| | Easy |
-| 145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](./algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/) | | Easy |
-| 146| [LRU Cache](https://leetcode.com/problems/lru-cache/)| [Python](./algorithms/146.%20LRU%20Cache/solution.py) | | Medium |
-| 150| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)| [Python](./algorithms/150.%20Evaluate%20Reverse%20Polish%20Notation/)| | Medium |
-| 153| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Python](./algorithms/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/)| | Medium |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Python](./algorithms/110.%20Balanced%20Binary%20Tree/solution.py)| | Easy |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/)| [Python](./algorithms/112.%20Path%20Sum/solution.py)| | Easy |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Python](./algorithms/113.%20Path%20Sum%20II/solution.py) | | Medium |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [Python](./algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py)| | Easy |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](./algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum/solution.py) | | Hard |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Python](./algorithms/125.%20Validate%20Palindrome/solution.py) | | Easy |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Python](./algorithms/131.%20Palindrome%20Partitioning/solution.py)| | Medium |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)| [Python](./algorithms/138.%20Copy%20List%20with%20Random%20Pointer/solution.py)| | Medium |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Python](./algorithms/141.%20Linked%20List%20Cycle/solution.py) | | Easy |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Python](./algorithms/142.%20Linked%20List%20Cycle%20II/solution.py) | | Medium |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [Python](./algorithms/143.%20Reorder%20List/) | | Medium |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](./algorithms/144.%20Binary%20Tree%20Preorder%20Traversal/)| | Easy |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](./algorithms/145.%20Binary%20Tree%20Postorder%20Traversal/) | | Easy |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)| [Python](./algorithms/146.%20LRU%20Cache/solution.py) | | Medium |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)| [Python](./algorithms/150.%20Evaluate%20Reverse%20Polish%20Notation/)| | Medium |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Python](./algorithms/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/)| | Medium |
 | 155| [Min Stack](https://leetcode.com/problems/min-stack/)| [Python](./algorithms/155.%20Min%20Stack/solution.py) | | Medium |
 | 167| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Python](./algorithms/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/solution.py) | | Medium |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)| [Python](./algorithms/169.%20Majority%20Element/solution.py)| | Easy |
