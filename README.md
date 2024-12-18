@@ -35,7 +35,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Python](./algorithms/52.%20N-Queens%20II/n_queens_2.py) | [Python](./algorithms/52.%20N-Queens%20II/test_n_queens_2.py) | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Python](./algorithms/53.%20Maximum%20Subarray/maximum_subarray.py) | [Python](./algorithms/53.%20Maximum%20Subarray/test_maximum_subarray.py) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./algorithms/58.%20Length%20of%20Last%20Word/length_of_last_word.py) | [Python](./algorithms/58.%20Length%20of%20Last%20Word/test_length_of_last_word.py) | Easy |
-| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Python](./algorithms/61.%20Rotate%20List/solution.py)| | Medium |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/)| [Python](./algorithms/61.%20Rotate%20List/rotate_list.py)| [Python](./algorithms/61.%20Rotate%20List/test_rotate_list.py) | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)| [Python](./algorithms/66.%20Plus%20One/solution.py) | | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./algorithms/70.%20Climbing%20Stairs/) | | Easy |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Python](./algorithms/74.%20Search%20a%202D%20Matrix/solution.py) | | Medium |
