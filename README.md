@@ -39,7 +39,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)| [Python](./algorithms/66.%20Plus%20One/plus_one.py) | [Python](./algorithms/66.%20Plus%20One/test_plus_one.py) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Python](./algorithms/69.%20Sqrt(x)/sqrtx.py) | [Python](./algorithms/69.%20Sqrt(x)/test_sqrtx.py) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Python](./algorithms/70.%20Climbing%20Stairs/Python) | [Python](./algorithms/70.%20Climbing%20Stairs/test_climbing_stairs.py) | Easy |
-| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Python](./algorithms/74.%20Search%20a%202D%20Matrix/solution.py) | | Medium |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Python](./algorithms/74.%20Search%20a%202D%20Matrix/Python/) | [Python](./algorithms/74.%20Search%20a%202D%20Matrix/test_search_2d_matrix.py) | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Python](./algorithms/75.%20Sort%20Colors/solution.py)| | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./algorithms/76.%20Minimum%20Window%20Substring/solution.py)| | Hard |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Python](./algorithms/77.%20Combinations/solution.py) | | Medium |
