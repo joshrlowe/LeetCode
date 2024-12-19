@@ -62,6 +62,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | Easy | - | - | - | [Solution](./algorithms/110.%20Balanced%20Binary%20Tree/Python/) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | Easy | - | - | - | [Solution](./algorithms/112.%20Path%20Sum/Python/) |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | Medium | - | - | - | [Solution](./algorithms/113.%20Path%20Sum%20II/Python/) |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | - | - | - | [Solution](./algorithms/118.%20Pascal's%20Triangle/Python/) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy | - | - | - | [Solution](./algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Python/) |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | - | - | - | [Solution](./algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum/Python/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | - | - | - | [Solution](./algorithms/125.%20Validate%20Palindrome/Python/) |
