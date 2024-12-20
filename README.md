@@ -67,6 +67,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy | - | - | - | [Solution](./algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Python/) |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | - | - | - | [Solution](./algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum/Python/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | - | - | - | [Solution](./algorithms/125.%20Validate%20Palindrome/Python/) |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | - | - | - | [Solution](./algorithms/128.%20Longest%20Consecutive%20Sequence/Python/) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | Medium | - | - | - | [Solution](./algorithms/131.%20Palindrome%20Partitioning/Python/) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | Medium | - | - | - | [Solution](./algorithms/138.%20Copy%20List%20with%20Random%20Pointer/Python/) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Easy | - | - | - | [Solution](./algorithms/141.%20Linked%20List%20Cycle/Python/) |
