@@ -81,6 +81,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | - | - | - | [Solution](./algorithms/155.%20Min%20Stack/Python/) |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | - | - | - | [Solution](./algorithms/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/Python/) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | - | - | - | [Solution](./algorithms/169.%20Majority%20Element/Python/) |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | Easy | - | - | - | [Solution](./algorithms/171.%20Excel%20Sheet%20Column%20Number/Python/) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | Medium | - | - | - | [Solution](./algorithms/173.%20Binary%20Search%20Tree%20Iterator/Python/) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | - | - | - | [Solution](./algorithms/189.%20Rotate%20Array/Python/) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | - | - | - | [Solution](./algorithms/198.%20House%20Robber/Python/) |
