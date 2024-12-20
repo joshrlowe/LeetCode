@@ -102,6 +102,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | - | - | - | [Solution](./algorithms/225.%20Implement%20Stack%20using%20Queues/Python/) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy | - | - | - | [Solution](./algorithms/226.%20Invert%20Binary%20Tree/Python/) |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Medium | - | - | - | [Solution](./algorithms/230.%20Kth%20Smallest%20Element%20in%20a%20BST/Python/) |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | Easy | - | - | - | [Solution](./algorithms/231.%20Power%20of%20Two/Python/) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Medium | - | - | - | [Solution](./algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Python/) |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | - | - | - | [Solution](./algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/Python/) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | Medium | - | - | - | [Solution](./algorithms/238.%20Product%20of%20Array%20Except%20Self/Python/) |
