@@ -84,6 +84,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | Easy | - | - | - | [Solution](./algorithms/171.%20Excel%20Sheet%20Column%20Number/Python/) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | Medium | - | - | - | [Solution](./algorithms/173.%20Binary%20Search%20Tree%20Iterator/Python/) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | - | - | - | [Solution](./algorithms/189.%20Rotate%20Array/Python/) |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | - | - | - | [Solution](./algorithms/190.%20Reverse%20Bits/Python/) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Medium | - | - | - | [Solution](./algorithms/198.%20House%20Robber/Python/) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | Medium | - | - | - | [Solution](./algorithms/199.%20Binary%20Tree%20Right%20Side%20View/Python/) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | - | - | - | [Solution](./algorithms/203.%20Remove%20Linked%20List%20Elements/Python/) |
