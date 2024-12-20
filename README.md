@@ -113,6 +113,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 259 | [3Sum Smaller 🔒](https://leetcode.com/problems/3sum-smaller/description/) | Medium | - | - | - | [Solution](./algorithms/259.%203Sum%20Smaller/Python/) |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/) | Easy | - | - | - | [Solution](./algorithms/263.%20Ugly%20Number/Python/) |
 | 266 | [Palindrome Permutation 🔒](https://leetcode.com/problems/palindrome-permutation/description/) | Easy | - | - | - | [Solution](./algorithms/266.%20Palindrome%20Permutation/Python/) |
+| 270 | [Closest Binary Search Tree Value 🔒](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | Easy | - | - | - | [Solution](./algorithms/270.%20Closest%20Binary%20Search%20Tree%20Value/Python/) |
 | 271 | [Encode and Decode Strings 🔒](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | - | - | - | [Solution](./algorithms/271.%20Encode%20and%20Decode%20Strings/Python/) |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | Easy | - | - | - | [Solution](./algorithms/278.%20First%20Bad%20Version/Python/) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Medium | - | - | - | [Solution](./algorithms/287.%20Find%20the%20Duplicate%20Number/Python/) |
