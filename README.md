@@ -96,6 +96,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 | 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | Medium | - | - | - | [Solution](./algorithms/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure/Python/) |
 | 212 | [Word Search II](https://leetcode.com/problems/prefix-and-suffix-search/description/) | Hard | - | - | - | [Solution](./algorithms/212.%20Word%20Search%20II/Python/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | - | - | - | [Solution](./algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Array/Python/) |
+| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | Medium | - | - | - | [Solution](./algorithms/216.%20Combination%20Sum%20III/Python/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | - | - | - | [Solution](./algorithms/217.%20Contains%20Duplicate/Python/) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | Easy | - | - | - | [Solution](./algorithms/219.%20Contains%20Duplicate%20II/Python/) |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | - | - | - | [Solution](./algorithms/225.%20Implement%20Stack%20using%20Queues/Python/) |
