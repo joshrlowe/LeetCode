@@ -6,7 +6,7 @@ Note: "🔒" means you need to subscribe to LeetCode Premium to view the problem
 
 | Number | Problem Name | Difficulty | General Solution | JavaScript | SQL | Python |
 |:-------|:-------------|:-----------|:-----------------|:--------|--------|--------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | - | - | - | [Solution](./algorithms/1.%20Two%20Sum/Python/) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](./algorithms/1.%20Two%20Sum/) | - | - | [Solution](./algorithms/1.%20Two%20Sum/Python/) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | - | - | - | [Solution](./algorithms/2.%20Add%20Two%20Numbers/Python/) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | - | - | - | [Solution](./algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters/Python/) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Hard | - | - | - | [Solution](./algorithms/4.%20Median%20of%20Two%20Sorted%20Arrays/Python/) |
